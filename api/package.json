@@ -1,0 +1,6 @@
+{
+  "name": "aside-personal-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A personal AI assistant with chat, memory, files, and voice."
+}
